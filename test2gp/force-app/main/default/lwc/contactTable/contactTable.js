@@ -4,7 +4,7 @@ import getContacts from '@salesforce/apex/ContactTableController.getContacts';
 
 const columns = [
     { label: 'Label', fieldName: 'LastName' },
-    { label: 'Email', fieldName: 'Email', type: 'url' },
+    { label: 'Email', fieldName: 'Email', type: 'email' },
     { label: 'Phone', fieldName: 'Phone', type: 'phone' }
 ];
 
