@@ -6,6 +6,13 @@
             "package": "Test 2GP",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app-2",
+            "package": "Lead Table",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "test2gp",
@@ -14,6 +21,8 @@
     "sourceApiVersion": "54.0",
     "packageAliases": {
         "Test 2GP": "0Ho7Q0000004CHWSA2",
-        "Test 2GP@0.1.0-1": "04t7Q000000pUK7QAM"
+        "Test 2GP@0.1.0-1": "04t7Q000000pUK7QAM",
+        "Lead Table": "0Ho7Q0000004CHbSAM",
+        "Lead Table@0.1.0-1": "04t7Q000000pUSmQAM"
     }
 }
